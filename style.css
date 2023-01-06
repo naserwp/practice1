@@ -37,7 +37,7 @@ p.main-description{
     color: #FFFFFF;
     margin: 30px 0;
 }
-button.btn.btn-donate-now, input.subscribe-btn.btn-donate-now{
+button.btn.btn-donate-now, input.subscribe-btn.btn-donate-now, input.btn-donate-now{
     padding: 16px 20px;
     background: #FF5959;
     border-radius: 5px;
